@@ -1,0 +1,10 @@
+C:\Users\SIMPRAIM\Documents\Coding\Development\Projects\Budgeting\bin\Debug\Budgeting.exe.config
+C:\Users\SIMPRAIM\Documents\Coding\Development\Projects\Budgeting\bin\Debug\Budgeting.exe
+C:\Users\SIMPRAIM\Documents\Coding\Development\Projects\Budgeting\bin\Debug\Budgeting.pdb
+C:\Users\SIMPRAIM\Documents\Coding\Development\Projects\Budgeting\obj\Debug\Budgeting.csprojAssemblyReference.cache
+C:\Users\SIMPRAIM\Documents\Coding\Development\Projects\Budgeting\obj\Debug\Budgeting.Form1.resources
+C:\Users\SIMPRAIM\Documents\Coding\Development\Projects\Budgeting\obj\Debug\Budgeting.Properties.Resources.resources
+C:\Users\SIMPRAIM\Documents\Coding\Development\Projects\Budgeting\obj\Debug\Budgeting.csproj.GenerateResource.cache
+C:\Users\SIMPRAIM\Documents\Coding\Development\Projects\Budgeting\obj\Debug\Budgeting.csproj.CoreCompileInputs.cache
+C:\Users\SIMPRAIM\Documents\Coding\Development\Projects\Budgeting\obj\Debug\Budgeting.exe
+C:\Users\SIMPRAIM\Documents\Coding\Development\Projects\Budgeting\obj\Debug\Budgeting.pdb
